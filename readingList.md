@@ -1,0 +1,11 @@
+- [ ] Amazon Web Services in Action
+- [ ] https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+- [ ] https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf
+- [ ] https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
+- [ ] https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
+- [ ] https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+- [ ] https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf
+- [ ] https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf
+- [ ] https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf
+- [ ] https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf
+
