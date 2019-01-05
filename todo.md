@@ -1,2 +1,3 @@
 - [ ] Create AWS account
 - [ ] Catalog services under services dropdown in aws console
+- [ ] Collate other aggregated study material for DVA-C01 (repos, blog posts, etc)
