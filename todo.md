@@ -1,0 +1,2 @@
+- [ ] Create AWS account
+- [ ] Catalog services under services dropdown in aws console
