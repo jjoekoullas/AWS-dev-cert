@@ -1,0 +1,24 @@
+Preffered way to interact with API in CI/CD pipeline	aws cli
+When authenticating with services use	IAM roles
+Firewall rules are defined in	Security Groups
+Integrate AWS services into applications using	aws SDKs
+Access to linux EC2 instances available done with	ssh
+Access to windows ec2 instance done via	rdp
+When accessing a windows EC2 machine key pair is used to	decrypt admin password
+EC2 is	Virtual Machines
+ELB is	Load balancing
+ELB stands for	Elastic Load Balancer
+Elastic Beanstalk is used to	deploy web applications
+EFS is	Network file system
+EFS stands for	Elastic File System
+S3 is	file storage
+Glacier is	archival storage
+RDS is	SQL databases
+DynamoDB is	a NoSQL database
+ElasticCache is	key-value store
+VPC is	Private Network
+Cloudwatch is	Monitoring/Logging
+CloudFormation is	Infrastructure Automation
+IAM is	Access control for cloud resources
+SQS is	distributed queue
+An AWS optimized version of linux	Amazon Linux
